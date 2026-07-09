@@ -4,7 +4,7 @@ This project analyzes customer usage patterns for ConnectaTel, a telecommunicati
 
 > **Academic Project**
 >
-> This project was developed for educational purposes as part of a simulated business case. The company, business scenario, and recommendations are intended to demonstrate a data analytics workflow and should not be interpreted as official guidance for a real telecommunications organization.
+> This project was developed for educational purposes as part of a simulated business case. The role, business scenario, and recommendations are intended to demonstrate a data analytics workflow and should not be interpreted as official guidance for the organizations referenced.
 
 ---
 
