@@ -147,6 +147,7 @@ These observations were retained because they may represent legitimate intensive
 - NumPy
 - Matplotlib
 - Seaborn
+- Jupyter Notebook
 - Google Colab
 - GitHub
 
