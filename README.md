@@ -164,7 +164,7 @@ The complete analysis can be reproduced directly in Google Colab without manuall
 3. Allow the notebook to clone the GitHub repository and load the required datasets.
 4. The complete workflow will execute sequentially, including data cleaning, customer profiling, statistical analysis, segmentation, and visualization.
 
-No manual dataset upload or path configuration is required.
+No manual dataset upload or additional configuration is required.
 
 ---
 
